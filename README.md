@@ -1,4 +1,4 @@
-[![MasterHead]([https://learn.temporal.io/getting_started/python](https://learn.temporal.io/assets/images/banner_python-0d345d125b6892840c54f7e1460c8a5a.png))]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thirumalai</h1>
 <h3 align="center">A passionate frontend developer & Backend developer from Rajapalayam</h3>
 <img align="right" ait="coding" width="400" src="https://api.kaltimprov.go.id/img/gifs/think.gif">
